@@ -1,0 +1,15 @@
+{
+  "name": "recetas",
+  "version": "1.0.0",
+  "description": "Apis de recetas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node serve.js"
+  },
+  "author": "Saul Bompart",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
